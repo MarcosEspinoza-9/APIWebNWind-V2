@@ -1,3 +1,3 @@
 # APIWebNWind-V2
-Creacion de una api
-utilizamos la base de datos northwind ehicimos consultas en base a los ejercicos que no propuso la maestra
+Creamos una api en visual estudio, generando consultas de la base de datos northwind.
+cosumismos esas api´s y las pasamos a un dashboard de google charts con graficas y tablas que muestran los datos de las consultas generadas
